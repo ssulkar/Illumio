@@ -7,7 +7,7 @@ INTERESTING NOTES:
 I created a class called QueryTester that had a static method called validate url.
 This useful method can be used without instantiating the class itself.
 
-REFINITEMENTS:
+REFINEMENTS:
 I would've added a check to prevent users from adding duplicate urls since it is a waste of memory.
 
 HOW TO RUN:
