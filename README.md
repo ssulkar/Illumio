@@ -12,4 +12,4 @@ I would've added a check to prevent users from adding duplicate urls since it is
 
 HOW TO RUN:
 Run the program by typing:
->> python Illumio
+> python Illumio
